@@ -1,0 +1,169 @@
+{
+  "properties": [
+    {
+      "title": "flat",
+      "description": "Spacious 2 BHK flat in a prime location",
+      "price": 6000000,
+      "location": "Mumbai, Maharashtra",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1000,
+      "image": "https://source.unsplash.com/600x600/?flat",
+      "owner": "61053e44c89a9f001f89836b"
+    },
+    {
+      "title": "plot",
+      "description": "2000 sqft plot near a park",
+      "price": 10000000,
+      "location": "Bangalore, Karnataka",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 2000,
+      "image": "https://source.unsplash.com/600x600/?plot",
+      "owner": "61053e44c89a9f001f89836b"
+    },
+    {
+      "title": "bungalow",
+      "description": "Luxurious bungalow with a pool",
+      "price": 25000000,
+      "location": "Goa",
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "area": 4000,
+      "image": "https://source.unsplash.com/600x600/?bungalow",
+      "owner": "61053e44c89a9f001f89836b"
+    },
+    {
+      "title": "flat",
+      "description": "Modern 3 BHK flat with scenic views",
+      "price": 8000000,
+      "location": "Pune, Maharashtra",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1200,
+      "image": "https://source.unsplash.com/600x600/?flat",
+      "owner": "61053e44c89a9f001f89836b"
+    },
+    {
+      "title": "plot",
+      "description": "1500 sqft plot in a developing area",
+      "price": 7000000,
+      "location": "Chennai, Tamil Nadu",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 1500,
+      "image": "https://source.unsplash.com/600x600/?plot",
+      "owner": "61053e44c89a9f001f89836b"
+    },
+    {
+      "title": "bungalow",
+      "description": "Spacious 5 BHK bungalow with a garden",
+      "price": 30000000,
+      "location": "Jaipur, Rajasthan",
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "area": 5000,
+      "image": "https://source.unsplash.com/600x600/?bungalow",
+      "owner": "61053e44c89a9f001f89836b"
+    },
+    {
+      "title": "plot",
+      "description": "Plot with a beautiful view",
+      "price": 50000,
+      "location": "City A",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 1000,
+      "image": "plot_image1.jpg",
+      "owner": "user_id_1"
+    },
+    {
+      "title": "flat",
+      "description": "Spacious flat in downtown",
+      "price": 120000,
+      "location": "City B",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1500,
+      "image": "flat_image1.jpg",
+      "owner": "user_id_2"
+    },
+    {
+      "title": "bungalow",
+      "description": "Luxurious bungalow with a pool",
+      "price": 300000,
+      "location": "City C",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 3500,
+      "image": "bungalow_image1.jpg",
+      "owner": "user_id_3"
+    },
+    {
+      "title": "plot",
+      "description": "Scenic plot with mountain views",
+      "price": 50000,
+      "location": "Mountain Town",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 1000,
+      "image": "plot_image1.jpg",
+      "owner": "user_id_1"
+    },
+    {
+      "title": "plot",
+      "description": "Spacious plot near the beach",
+      "price": 70000,
+      "location": "Beachside City",
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 1200,
+      "image": "plot_image2.jpg",
+      "owner": "user_id_2"
+    },
+    {
+      "title": "flat",
+      "description": "Modern flat in the city center",
+      "price": 120000,
+      "location": "Downtown Metropolis",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 800,
+      "image": "flat_image1.jpg",
+      "owner": "user_id_3"
+    },
+    {
+      "title": "flat",
+      "description": "Cozy apartment with park views",
+      "price": 90000,
+      "location": "Parkside Plaza",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 600,
+      "image": "flat_image2.jpg",
+      "owner": "user_id_4"
+    },
+    {
+      "title": "bungalow",
+      "description": "Luxurious beachfront bungalow",
+      "price": 300000,
+      "location": "Sunny Beach Resort",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2500,
+      "image": "bungalow_image1.jpg",
+      "owner": "user_id_5"
+    },
+    {
+      "title": "bungalow",
+      "description": "Secluded forest retreat",
+      "price": 250000,
+      "location": "Quiet Forest Haven",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2000,
+      "image": "bungalow_image2.jpg",
+      "owner": "user_id_6"
+    }
+  ]
+}
